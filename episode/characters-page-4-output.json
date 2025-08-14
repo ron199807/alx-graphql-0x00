@@ -1,20 +1,10 @@
 {
   "data": {
-    "characters": {
-      "results": [
-        {
-          "id": "61",
-          "name": "Campaign Manager Morty",
-          "status": "Dead",
-          "image": "https://rickandmortyapi.com/api/character/avatar/61.jpeg"
-        },
-        {
-          "id": "62",
-          "name": "Canklanker Thom",
-          "status": "Dead",
-          "image": "https://rickandmortyapi.com/api/character/avatar/62.jpeg"
-        }
-      ]
+    "episode": {
+      "id": "4",
+      "name": "M. Night Shaym-Aliens!",
+      "air_date": "January 13, 2014",
+      "episode": "S01E04"
     }
   }
 }

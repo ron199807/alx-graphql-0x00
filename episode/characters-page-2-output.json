@@ -1,20 +1,10 @@
 {
   "data": {
-    "characters": {
-      "results": [
-        {
-          "id": "21",
-          "name": "Aqua Morty",
-          "status": "unknown",
-          "image": "https://rickandmortyapi.com/api/character/avatar/21.jpeg"
-        },
-        {
-          "id": "22",
-          "name": "Aqua Rick",
-          "status": "unknown",
-          "image": "https://rickandmortyapi.com/api/character/avatar/22.jpeg"
-        }
-      ]
+    "episode": {
+      "id": "2",
+      "name": "Lawnmower Dog",
+      "air_date": "December 9, 2013",
+      "episode": "S01E02"
     }
   }
 }
